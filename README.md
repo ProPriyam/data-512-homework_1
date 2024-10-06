@@ -79,8 +79,11 @@ Each visualization includes clearly labeled axes, a legend, and a title to facil
 
 ## Code and Notebooks
 
-- Notebook Filename: `data_acquisition_and_analysis.ipynb`
-- Contains all the code for data acquisition, processing, and analysis, along with detailed descriptions and explanations for each step.
+- Notebook Filename: `Data_Aquistions.ipynb`
+- Contains all the code for API calls and Data acquisition, along with detailed descriptions and explanations for each step.
+
+- Notebook Filename: `Data_Analysis.ipynb`
+- Contains all the code for processing, and analysis, along with detailed descriptions and explanations for each step.
 
 ## License and Terms of Use
 
